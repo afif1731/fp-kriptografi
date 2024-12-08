@@ -1,0 +1,7 @@
+quart
+quart-cors
+asyncio
+numpy
+torch
+nistrng
+pycryptodome
